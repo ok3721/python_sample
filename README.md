@@ -1,2 +1,2 @@
-# python_sample0
+# python_sample
 just a vault for random python scripts from job
