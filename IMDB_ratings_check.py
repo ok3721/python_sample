@@ -19,7 +19,7 @@ for index, row in df1.iterrows():
         type = result["type"]
         rating = result["rating"]['ratingValue']
         name = result["name"]
-        if len(result["director"]) == 0
+        if len(result["director"]) == 0:
             director = ""
         else:
             director = result["director"][0]["name"]
